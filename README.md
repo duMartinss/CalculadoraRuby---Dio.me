@@ -1,2 +1,2 @@
-# CalculadoraRuby---Dio.me
-Uma calculadora usando Ruby
+# Prjetos do curso de Ruby - Dio.me
+Prpjetos em ruby
